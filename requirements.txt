@@ -1,0 +1,12 @@
+BaseModel
+matplotlib
+requests
+fastapi
+pydantic
+joblib
+streamlit
+pandas
+requests
+matplotlib
+pyplot
+cluster
